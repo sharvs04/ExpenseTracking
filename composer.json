@@ -1,0 +1,12 @@
+{
+    "name": "itsupport/expense-tracking",
+    "description": "A Php application for tracking expenses.",
+    "type": "project",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Framework\\": "src/Framework",
+            "App\\": "src/App"
+        }
+    }
+}
